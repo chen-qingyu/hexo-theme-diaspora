@@ -8,9 +8,9 @@
 
 干净、清新、响应式，更多好玩等你来发现。
 
-> 感谢 WordPress 主题原作者创作出这么精美的主题 [@Loeify](https://github.com/LoeiFy/Diaspora)
+> 感谢 WordPress 主题原作者创作出这么精美的主题 [@Loeify](https://github.com/LoeiFy/Diaspora)。如果你喜欢，请捐助原作者。
 >
-> 感谢 Hexo 主题原作者创作出这么精美的主题 [@Fechin](https://github.com/Fechin/hexo-theme-diaspora)
+> 感谢 Hexo 主题原作者创作出这么精美的主题 [@Fechin](https://github.com/Fechin/hexo-theme-diaspora)。如果你喜欢，请捐助原作者。
 
 该项目基于已归档的 Hexo 主题 [hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) 继续开发，主要有以下改进：
 

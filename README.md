@@ -9,29 +9,20 @@
 该项目基于已归档的 Hexo 主题[hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora)继续开发，主要有以下改进：
 
 1. 优化更新 README、配置文件、默认图片
+2. 打包为 npm package，方便安装
 
 ## 安装主题
 
 ```bash
-git clone https://github.com/chen-qingyu/hexo-theme-diaspora.git themes/diaspora
+npm install hexo-theme-diaspora
 ```
 
 ## 启用主题
 
 修改 Hexo 配置文件 `_config.yml` 主题项设置为 diaspora
 
-```yaml
----
+```yml
 theme: diaspora
-```
-
-## 更新主题
-
-注意：请在更时主题时备份`_config.yml`配置文件
-
-```bash
-cd themes/diaspora
-git pull
 ```
 
 ## 新建文章模板

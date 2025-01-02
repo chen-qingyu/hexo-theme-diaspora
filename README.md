@@ -8,7 +8,7 @@
 
 该项目基于已归档的 Hexo 主题[hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora)继续开发，主要有以下改进：
 
-1. 优化更新 README
+1. 优化更新 README、配置文件、默认图片
 
 ## 安装主题
 

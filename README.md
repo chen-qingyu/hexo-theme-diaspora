@@ -1,31 +1,30 @@
 # hexo-theme-diaspora
 
-一款基于 WordPress 移植的 Hexo 主题，适合喜欢摄影，影评，乐评和玩弄文字的你，干净，清新； 响应式，Ajax，更多好玩的等你来发现。
+## 简介
 
-> 感谢 WordPress 主题原作者创作出这么精美的主题 [@Loeify](https://github.com/LoeiFy/Diaspora)。如果你喜欢，请捐助原作者。
+一款干净，美丽，响应式的 Hexo 主题。
+
+专注呈现图像，适合喜欢创作和记录的你。
+
+干净、清新、响应式，更多好玩等你来发现。
+
+> 感谢 WordPress 主题原作者创作出这么精美的主题 [@Loeify](https://github.com/LoeiFy/Diaspora)
 >
-> 感谢 Hexo 主题原作者创作出这么精美的主题 [@Fechin](https://github.com/Fechin/hexo-theme-diaspora)。如果你喜欢，请捐助原作者。
+> 感谢 Hexo 主题原作者创作出这么精美的主题 [@Fechin](https://github.com/Fechin/hexo-theme-diaspora)
 
-该项目基于已归档的 Hexo 主题[hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora)继续开发，主要有以下改进：
+该项目基于已归档的 Hexo 主题 [hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) 继续开发，主要有以下改进：
 
 1. 优化更新 README、配置文件、默认图片
 2. 打包为 npm package，方便安装
 
-## 安装主题
+## 使用
 
-```bash
-npm install hexo-theme-diaspora
-```
+1. 安装主题：`npm install hexo-theme-diaspora`
+2. 修改配置文件 `_config.yml` 的 `theme` 字段为 `diaspora`
 
-## 启用主题
+## 定制
 
-修改 Hexo 配置文件 `_config.yml` 主题项设置为 diaspora
-
-```yml
-theme: diaspora
-```
-
-## 新建文章模板
+### 新建文章模板
 
 ```markdown
 ---
@@ -42,7 +41,7 @@ cover: http://xxx/xxx.jpg
 ---
 ```
 
-## 创建分类页
+### 创建分类页
 
 1. 新建一个页面，命名为 categories 。命令如下：
 
@@ -61,7 +60,7 @@ cover: http://xxx/xxx.jpg
 
    主题将自动为这个页面显示所有分类。
 
-## 创建标签页
+### 创建标签页
 
 1. 新建一个页面，命名为 tags 。命令如下：
 
@@ -80,7 +79,7 @@ cover: http://xxx/xxx.jpg
 
    主题将自动为这个页面显示所有标签。
 
-## 创建搜索页
+### 创建搜索页
 
 1. 需要安装 hexo 的搜索插件
 

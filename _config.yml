@@ -47,11 +47,9 @@ hitokoto: false
 
 # 链接(可选:facebook,twitter,github,wechat,email)
 links:
-  facebook: /
-  twitter: /
-  github: /
+  github: https://github.com
   wechat: /img/wechat.png
-  email: mailto:xxxx@gmail.com
+  email: mailto:xxx@example.com
 
 # 备案
 beian:
